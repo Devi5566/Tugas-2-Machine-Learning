@@ -1,30 +1,32 @@
-# Tugas-2-Machine-Learning
+#Tugas-2-Machine-Learning
 
-## Klasifikasi dan Regresi SVM
+Nama : Devi Anggraini
+NPM : 2108107010008
 
-### Klasifikasi
+# Dataset
+Dataset yang digunakan didapat pada situs kaggel yang dapat di unduh pada link berikut
+https://www.kaggle.com/datasets/mirichoi0218/insurance
+https://www.kaggle.com/datasets/jillanisofttech/diabetes-disease-updated-dataset
 
-Untuk menjalankan kode klasifikasi SVM, ikuti petunjuk di bawah ini:
+# Panduan Menjalankan Source Code dan Dataset
 
-1. Pastikan Python telah terinstal di komputer Anda. Jika belum, Anda dapat mengunduhnya dari situs web resmi Python.
+File ini berisi penjelasan tentang cara menjalankan source code dan informasi tentang dataset yang digunakan dalam proyek ini.
 
-2. Instal semua paket dan dependensi yang diperlukan dengan mengeksekusi perintah berikut di terminal atau command prompt:
-   
+## Cara Menjalankan Source Code
+
+1. Pastikan Anda memiliki Python yang terinstal di komputer Anda. Jika belum, Anda dapat mengunduhnya dari [situs web resmi Python](https://www.python.org/).
+
+2. Instal semua paket dan dependensi yang dibutuhkan dengan menjalankan perintah berikut di terminal atau command prompt:
+
     ```
     pip install -r requirements.txt
     ```
-   
+
 3. Unduh kode sumber dan repositori yang relevan.
 
 4. Buka terminal atau command prompt, lalu arahkan ke direktori tempat Anda menyimpan kode sumber.
 
 5. Jalankan kode sumber dengan menjalankan perintah berikut:
-
-python svm_classification.py
-
-6. Buka terminal atau command prompt, lalu arahkan ke direktori tempat Anda menyimpan kode sumber.
-
-7. Jalankan kode sumber dengan menjalankan perintah berikut:
-'''
-   python svm_classification.py
-'''
+    ```
+    python main.py
+    ```
