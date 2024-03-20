@@ -10,10 +10,6 @@ https://www.kaggle.com/datasets/jillanisofttech/diabetes-disease-updated-dataset
 
 # Panduan Menjalankan Source Code dan Dataset
 
-File ini berisi penjelasan tentang cara menjalankan source code dan informasi tentang dataset yang digunakan dalam proyek ini.
-
-## Cara Menjalankan Source Code
-
 1. Pastikan Anda memiliki Python yang terinstal di komputer Anda. Jika belum, Anda dapat mengunduhnya dari [situs web resmi Python](https://www.python.org/).
 
 2. Instal semua paket dan dependensi yang dibutuhkan dengan menjalankan perintah berikut di terminal atau command prompt:
