@@ -1,3 +1,1 @@
 # Tugas-2-Machine-Learning
-
-''' pip install '''
